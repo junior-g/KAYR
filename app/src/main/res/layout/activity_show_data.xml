@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activity_show_data"
+    android:background="@drawable/river"
+    android:scrollbars="vertical"
+    tools:context="com.example.abis.kayr.ShowData">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/river"
+            android:visibility="gone"
+            android:scaleType="centerCrop"
+            />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="10dp">
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            card_view:cardBackgroundColor="@color/transparent"
+            card_view:cardCornerRadius="20dp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="River's Name"
+                android:textColor="@color/TextCOLOR"
+                android:textSize="20dp"
+                android:id="@+id/tx_uRiverName"/>
+        </android.support.v7.widget.CardView>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="match_parent">
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_margin="10dp"
+                    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                    card_view:cardBackgroundColor="@color/transparent"
+                    card_view:cardCornerRadius="20dp"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Pollution By Drains"
+                        android:padding="6dp"
+                        android:textColor="@color/TextCOLOR"
+                        android:textSize="15dp"
+                        android:id="@+id/tx_udrainPollution"/>
+                </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_margin="20dp"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        card_view:cardBackgroundColor="@color/transparent"
+        card_view:cardCornerRadius="20dp"
+        android:id="@+id/Crd_RiverDetails"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:paddingBottom="5dp"
+                android:textColor="@color/TextCOLOR"
+                android:text="Data"
+                android:layout_gravity="center"
+                android:id="@+id/tx_uData"/>
+        </LinearLayout>
+
+
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/loding_RiverDetails"
+            android:layout_centerInParent="true"/>
+    </android.support.v7.widget.CardView>
+        <com.github.mikephil.charting.charts.LineChart
+            android:layout_width="match_parent"
+            android:id="@+id/graph_pH"
+            android:layout_margin="10dp"
+            android:background="@color/pH_background"
+            android:layout_height="200dp">
+
+        </com.github.mikephil.charting.charts.LineChart>
+        <com.github.mikephil.charting.charts.LineChart
+            android:layout_width="match_parent"
+            android:id="@+id/graph_tds"
+            android:layout_margin="10dp"
+            android:background="@color/pH_background"
+            android:layout_height="200dp">
+
+        </com.github.mikephil.charting.charts.LineChart>
+        <com.github.mikephil.charting.charts.LineChart
+            android:layout_width="match_parent"
+            android:id="@+id/graph_do"
+            android:layout_margin="10dp"
+            android:background="@color/pH_background"
+            android:layout_height="200dp">
+
+        </com.github.mikephil.charting.charts.LineChart>
+        <com.github.mikephil.charting.charts.LineChart
+            android:layout_width="match_parent"
+            android:id="@+id/graph_quantity"
+            android:layout_margin="10dp"
+            android:background="@color/pH_background"
+            android:layout_height="200dp">
+
+        </com.github.mikephil.charting.charts.LineChart>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</RelativeLayout>

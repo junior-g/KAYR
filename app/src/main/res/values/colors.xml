@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="colorPrimary">#039BE5</color>
+        <color name="colorPrimaryDark">#000000</color>
+        <color name="colorAccent">#039BE5</color>
+        <color name="colorDarkGrey">#455A64</color>
+        <color name="white">#FBE9E7</color>
+        <color name="RED">#D50000</color>
+        <color name="Ph_Text">#3E2723</color>
+        <color name="pH_background">#f4e88a</color>
+        <color name="veryfirst_background">#80DEEA</color>
+        <color name="TextCOLOR">#000000</color>
+
+        <color name="primary_text">#212121</color>
+        <color name="secondary_text">#727272</color>
+
+        <color name="proceed_disable">#DEDEDE</color>
+        <color name="proceed_enable">#72D63A</color>
+        <color name="colorWhite">#FFFFFF</color>
+        <color name="transparent">#4Dffffff</color>
+</resources>

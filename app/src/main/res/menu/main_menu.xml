@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bt_login"
+        android:title="Add New WaterBody"
+        ></item>
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search_white_24dp"
+    android:orderInCategory="1"
+    android:title="search here..."
+    app:actionViewClass="android.support.v7.widget.SearchView"
+    app:showAsAction="always|collapseActionView" />
+
+    <item
+        android:id="@+id/bt_v2riverMap"
+        android:title="River Map"/>
+
+
+    <item
+        android:id="@+id/bt_riverOrganisations"
+        android:title="River Organisations "/>
+    <item
+        android:id="@+id/bt_majorSystem"
+        android:title="River Systems"/>
+    <item
+        android:id="@+id/bt_qMonatring"
+        android:title="Quality Monitoring"></item>
+    <item
+        android:id="@+id/bt_CurrentLocation"
+        android:title=""/>
+
+</menu>

@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">KAYR</string>
+    <string name="title_activity_maps">Map with Marker</string>
+    <string-array name="states">
+        <item>Jharkhand</item>
+        <item>UP</item>
+    </string-array>
+    <string-array name="Jharkhand">
+        <item>ranchi</item>
+        <item>ramgarh</item>
+    </string-array>
+    <string-array name="UP">
+        <item>kanpur</item>
+        <item>allahabad</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="spinner_title">Select Category</string>
+
+    <string name="quotedesc">Welcome! Where should we deliver to?</string>
+    <string name="GPSAlertDialogTitle">GPSAlertDialogTitle</string>
+    <string name="GPSAlertDialogMessage">GPSAlertDialogMessage</string>
+    <string name="action_settings">action_settings</string>
+    <string name="cancel">cancel</string>
+
+    <!--River Oranisation-->
+    <string name="riverOrg">
+        Existing Organizations for river management "\n"
+"\n"
+1 . Damodar Valley Corporation "\n"
+The establishment of Damodar Valley Corporation (DVC) by an Act of Parliament in 1948 marks the beginning of an authority with the responsibilities for designing and administering comprehensive programme of development of river basin. The DVC was modeled on the lines of Tennessee Valley Authority (TVA) of the United States. The principal objectives of the DVC as laid down in the DVC Act, 1948 are promotion and operation of schemes for irrigation, water supply and drainage, generation, transmission and distribution of electrical energy, flood control and navigation, promotion of afforestation, control of soil erosion, promotion of public health and the agricultural, industrial, economic and general well beings in the valley and its area of operation. The DVC is headed by a Chairman and has two full-time members. The Secretary and the Financial Adviser works directly under the Chairman. The DVC has under its authority four dams namely at Tilaiya, Konar, Maithon and Panchet. Irrigation system from Durgapur barrage is with West Bengal Government since 1964. "\n"
+"\n"
+For details go to the website :- https://www.dvc.gov.in/dvcwebsite_new1/ "\n"
+"\n"
+2. Bhakra-Beas Management Board "\n"
+The Bhakra Control Board and the Bhakra Advisory Board were constituted in 1950 by the Ministry of Works, Mines and Power for ensuring efficient, economical and early execution of the Bhakra-Nangal Project.On Reorganisation of the erstwhile state of Punjab on 1st November, 1966, Bhakra Management Board (BMB) was constituted under section 79 of the Punjab Reorganisation Act, 1966.The administration, maintenance and operation of Bhakra Nangal Project were handed over to Bhakra Management Board w.e.f. 1st October 1967. Similar functions with regard to the Beas Project were also subsequently entrusted to the Bhakra Management Board which was renamed as Bhakra-Beas Management Board. The Board is entrusted with the task of administration, maintenance and operation of the two reservoirs for irrigation and power generation and regulation of supply of water to the States of Punjab, Haryana and Rajasthan and UT of Chandigarh and Delhi. The Board comprises of a Chairman, with two full time members. In addition, the Joint Secretary (Hydro), Ministry of Power, Govt of India, Commissioner (Indus), MoWR, Govt of India and the Secretaries of irrigation and Power Ministries of Punjab, Haryana,Rajasthan and Himachal Pradesh "\n"
+"\n"
+For details go to the website :- http://www.bbmb.gov.in/ "\n"
+"\n"
+3. Tungabhadra Board "\n"
+The Tungabhadra Board was constituted by the President in exercise of the power vested under the Andhra State Act,1953 for completion of the Tungabhadra Project and for its operation and maintenance. The Board is in-charge of the common portions of the Tungabhadra Project which comprises of Tungabhadra Dam and reservoirs, low level canal, high level canal and right bank power houses. The Krishna Water Disputes Tribunal has made specific provisions in the Award for the use of Tungabhadra Waters by the States of Karnataka and Andhra Pradesh. The responsibility for carrying out these specific provisions relating to the use of Tungabhadra waters has been entrusted to the Tungabhadra Board by the Tribunal. At present the Board consists of a Chairman appointed by the Government of India, a Finance Member also from Government of India and Members representing Andhra Pradesh and Karnataka, all working part time on the Tungabhadra Board. "\n"
+"\n"
+4.Ganga Flood Control Commission "\n"
+The Ganga Flood Control Commission was constituted in 1972 by the erstwhile Ministry of Irrigation and Power through a Government resolution. The Commission serves as the executive limb and secretariat of the Ganga Flood Control Board, which is a body headed by the Union Minister of Water Resources as Chairman and Chief Ministers or their representatives of the basin-states and Lt. Governor of Delhi or his representative as members. The Commission is responsible for preparing a comprehensive plan of flood control in the Ganga basin and drawing out a phased programme of implementation of works to proper standards besides examinations of various schemes from techno-economic angle, monitoring of important flood management schemes and providing other technical guidance to the basin-states. The GFCCC is headed by a chairman appointed by the Govt. of India who also acts as the Member-Secretary of the Ganga Flood Control Board, and is assisted by two full-time Members. The representatives of the concerned Central Ministries/Departments as well as the Chief Engineers of the basin-states are either part-time members or permanent invitees of the Commission. The Commission’s function is restricted to only flood control projects and has jurisdiction over the Ganga basin. "\n"
+"\n"
+5.Betwa River Board "\n"
+Betwa River Board was constituted by the Union Ministry of Water Resources under the Betwa River Board Act, 1976. This was in accordance with the provisions of the interstate agreement reached in 1973 between the states of U.P. and M.P. regarding construction of Rajghat dam project and is responsible for the early, efficient and economical execution of the project. The Board is headed by Union Minister of Water Resources as Chairman. The Union Minister of Energy, Chief Ministers and the ministers in charge of Finance, Irrigation and Power of the States of UP and MP are members of the Board. The activities of the Board are managed by an Executive Committee under the chairmanship of the Chairman, Central Water Commission. "\n"
+"\n"
+6.Bansagar Control Board "\n"
+Bansagar Control Board was constituted in 1976 in pursuance of an interstate agreement between the states of Mahya Pradesh, Uttar Pradesh and Bihar regarding construction of Bansagar dam on Sone. The Board is in overall charge of the Bansagar dam, and its appurtenant structures and is responsible for the early, efficient and economical execution of the project. The Board is headed by Union Minister of Water Resources as its Chairman. The Union Minister of Energy, Chief Ministers and Ministers in charge of Irrigation and Finance of three states of UP, MP and Bihar and the Minister in charge of Electricity of Madhya Pradesh are its members. The affairs of the Board are managed by an Executive Committee under the Chairmanship of Chairman, Central Water Commission. "\n"
+"\n"
+7.Brahmaputra Board "\n"
+rahmaputra Board was established by the Govt. of India under the Brahmaputra Board Act, 1980. The Board was set up with the objective of carrying out surveys and investigations and preparing a master plan for the control of flood and bank erosion and improvement of drainage of the Brahmaputra Valley. In preparing the master plan, the Board shall have regard for the development and utilization of the water resources for irrigation, hydropower, navigation and other beneficial purposes. The Board is headed by a Chairman, appointed by the Govt. of India and has 20 members of whom 3 are appointed by the Govt. of India and 17 are members representing States of the North-Eastern Region, North-Eastern Council, concerned ministries and other agencies of the Govt. of India. Apart from Brahmaputra Valley, the Board has jurisdiction over the adjacent Barak Valley also. There is provision for the Board to take up construction of multipurpose projects in the approved master plan with the approval of the Central Government. "\n"
+"\n"
+For details go to the website :- http://www.brahmaputraboard.gov.in/ "\n"
+"\n"
+8.Narmada Control Authority "\n"
+Narmada Control Authority was set up in 1980 by the Government of India in pursuance of the final orders of the Narmada Water Disputes Tribunal(NWDT). It is an inter-state high level administrative authority, charged with the responsibility of securing compliance with the implementation of decisions and directions of the NWDT by the four party states of Gujarat, Maharashtra, Madhya Pradesh and Rajasthan. The Authority is headed by the Secretary, Union Ministry of Water Resources as Chairman. It has seven engineering members, three appointed by the Govt. of India, one of whom is the executive member and four appointed by the basin states among the Engineer-in-Chief/ Chief Engineer/Additional Chief Engineer of Irrigation of Power Department of State Electricity Board. In addition, Secretaries of the Union Ministries of Energy, Environment and Forests and Welfare and Chief Secretaries of the basin states are also members of the Authority. The Authority is meat only for the compliance of the Award of the Tribunal. "\n"
+"\n"
+For details go to the website :- http://www.nca.gov.in/ "\n"
+"\n"
+9.Sardar Sarovar Construction Advisory Committee "\n"
+Sardar Sarovar Construction Advisory Committee was set up in 1980 by Government of India in pursuance of the final orders of NWDT. The Committee is responsible for the efficient, economical and early execution of the dam and appurtenant works and the power complex of the inter state Sardar Sarovar Project. The Committee scrutinizes the technical features, designs and estimates and also the annual works programme of the project. The Committee is headed by the Secretary, Union Ministry of Water Resources as Chairman and has members representing Government of India, four party states of Gujarat, Maharashtra, Madhya Pradesh and Rajasthan and the Narmada Control Authority. "\n"
+"\n"
+For details go to the website :- http://www.sscac.gov.in/ "\n"
+"\n"
+10. Upper Yamuna River Board "\n"
+"\n"
+For details go to the website :- http://india-wris.nrsc.gov.in/wrpinfo/index.php?title=Upper_Yamuna_River_Board "\n"
+    </string>
+
+    <string name="majorSystem">
+Major River Systems In India "\n"
+"\n"
+1.Indus River System "\n"
+Indus River, Tibetan and Sanskrit Sindhu, Sindhi Sindhu, or Mehran, great trans-Himalayan river of South Asia. It is one of the longest rivers in the world, with a length of some 1,800 miles (2,900 km). Its total drainage area is about 450,000 square miles (1,165,000 square km), of which 175,000 square miles (453,000 square km) lie in the Himalayan ranges and foothills and the rest in the semiarid plains of Pakistan. "\n"
+"\n"
+The Indus originates in the northern slopes of the Kailash range in Tibet near Lake Manasarovar. It follows a north-westerly course through Tibet. It enters Indian territory in Jammu and Kashmir. It forms a picturesque gorge in this part. Several tributaries - the Zaskar, the Shyok, the Nubra and the Hunza join it in the Kashmir region. It flows through the regions of Ladakh, Baltistan and Gilgit and runs between the Ladakh Range and the Zaskar Range. It crosses the Himalayas through a 5181 m deep gorge near Attock, lying north of the Nanga Parbat and later takes a bend to the south west direction before entering Pakistan. It has a large number of tributaries in both India and Pakistan and has a total length of about 2880 km from the source to the point near Karachi where it falls into the Arabian Sea. The main tributaries of the Indus in India are Jhelum, Chenab, Ravi, Beas and Satluj. "\n"
+"\n"
+The principal rivers of the Indus River system are snow-fed. Their flow varies greatly at different times of the year: the discharge is at a minimum during the winter months (December to February); there is a rise of water in spring and early summer (March to June); and floods occur in the rainy season (July to September). Occasionally there are devastating flash floods. The Indus and its tributaries receive all their waters in the hilly upper parts of their catchments. Therefore, their flow is at a maximum where they emerge out of the foothills, and little surface flow is added in the plains, where evaporation and seepage considerably reduce the flow volume. On the other hand, some water is added by seepage in the period after the monsoon months. In the main stream of the Indus, the water level is at its lowest from mid-December to mid-February. After this the river starts rising, slowly at first and then more rapidly at the end of March. The high-water level usually occurs between mid-July and mid-August. The river then falls rapidly until the beginning of October, when the water level subsides more gradually. "\n"
+"\n"
+2.Brahmaputra River System "\n"
+The river Brahmaputra covers a catchment area of about 5,80,000 Sq.km. right from its origin in Himalayan Lake Manasarover at an elevation of about 5,150 m in Tibet to the outfall in the Bay of Bengal. It flows eastward in Tibet and south, south-west in India and traverses a distance of about 2900 km out of which 1,700km is in Tibet, 900 km is in India and 300 km is in Bangladesh. In the upper reaches, the river is fed by the glaciers and in the lower reaches, it is joined by a number of tributaries which originates at different elevation in the hills encircling the catchment forming watershed. Among the tributaries Subansiri, Manas, Jiabharali, Pagladiya, Puthimari and Sankosh etc ar"\t"e snow fed. The break up of catchment area in India is as follows: "\n"
+"\n"
+State	                 "\t"              Area
+ARUNACHAL PRADESH	     "\t"           81,424 Sq.Km.
+ASSAM (Excluding Barak valley) "\t"	    70,634 Sq.Km.
+NAGALAND	                   "\t"     10,803 Sq.Km.
+MEGHALAYA	                   "\t"     11,667 Sq.Km.
+WEST BENGAL and SIKKIM	       "\t"     19,885 Sq.Km.
+Total	                       "\t"     1,94,413 Sq.Km.
+"\n"
+3.Ganga River System "\n"
+The Ganga (Ganges) rises from the Gangotri Glacier in the Garhwal Himalayas at an elevation of some 4100 metres above the sea level under the name of Bhagirathi. This main stream of the river flows through the Himalayas till another two streams – the Mandakini and the Alaknanda – join it at Dev Prayag, the point of confluence. The combined stream is then known as the Ganga. After traversing a distance of 1450 km. in Uttaranchal and Uttar Pradesh, the river forms boundary between Uttar Pradesh and Bihar for length of about 110 km. The Ganga, then flows through a length of 445 km. in Bihar/Jharkhand and 520 km. in West Bengal before its outfall into Bay of Bengal. The river after traversing a distance of 2525 kms from its source meets the Bay of Bengal at Ganga Sagar in West Bengal. In Uttar Pradesh, the major tributaries of river Ganga are the Ramganga, the Yamuna, the Gomti, and the Tons. The river Ganga enters into state of Bihar near Buxar and leaves Jharkhand near Rajmahal. Its important tributaries in Bihar are the Ghaghra, the Gandak, the Burhi Gandak, the Kosi, the Sone, the Punpun and the Kiul. The Ganga drains a total catchment area of 10.631 lakh sq.km., out of which 8.61 lakh sq.km.lies in India. Thus Ganga basin covers 26 percent of geographical area of the country. The annual rainfall in the Ganga basin varies from 500 mm. to 2500 mm in the mountains and 400 mm to 1250 mm in the plains. Most of rainfall is concentrated during the months of June to September "\n"
+"\n"
+4.Narmada River System "\n"
+The Narmada or Nerbudda is a river in central India. It forms the traditional boundary between North India and South India, and is a total of 1,313 km (801 mi) long. Of the major rivers of peninsular India, only the Narmada, the Tapti and the Mahi run from east to west. It rises on the summit of Amarkantak Hill in Madhya Pradesh state, and for the first 320 kilometres (200 miles) of its course winds among the Mandla Hills, which form the head of the Satpura Range; then at Jabalpur, passing through the 'Marble Rocks', it enters the Narmada Valley between the Vindhya and Satpura ranges, and pursues a direct westerly course to the Gulf of Cambay. Its total length through the states of Madhya Pradesh, Maharashtra, and Gujarat amounts to 1312 kilometres (815 miles), and it empties into the Arabian Sea in the Bharuch district of Gujarat. "\n"
+"\n"
+5.Tapti River System "\n"
+The Tapi is a river of central India. It is one of the major rivers of peninsular India with the length of around 724 km; it runs from east to west. The Tapi River originates in the Betul district from a place called Multai. It is one of only three rivers in peninsular India that run from east to west - the others being the Narmada River and the Mahi River. The Tapi is the second largest westward draining inter-state river basin. It covers a large area in the State of Maharashtra besides areas in the states of Madhya Pradesh and Gujarat. "\n"
+"\n"
+6.Godavari River System "\n"
+The river with second longest course within India, Godavari is often referred to as the Vriddh (Old) Ganga or the Dakshin (South) Ganga. The name may be apt in more ways than one, as the river follows the course of Ganga's tragedy. The river is about 1,465 km (900 miles) long. It rises at Trimbakeshwar, near Nasik and Mumbai (formerly Bombay) in Maharashtra around 380 km distance from the Arabian Sea, but flows southeast across south-central India through the states of Madhya Pradesh, Karnataka, Orissa and Andhra Pradesh, and empties into the Bay of Bengal. At Rajahmundry, 80 km from the coast, the river splits into two streams thus forming a very fertile delta. Some of its tributaries include Indravati River, Manjira, Bindusara and Sabari. Some important urban centers on its banks include Nasik, Bhadrachalam, Rajahmundry and Narsapur. The Asia's largest rail-cum-road bridge on the river Godavari linking Kovvur and Rajahmundry is considered to be an engineering feat. "\n"
+"\n"
+7.Krishna River System "\n"
+The Krishna is one of the longest rivers of India (about 1400 km in length). It originates at Mahabaleswar in Maharashtra, passes through Sangli and meets the sea in the Bay of Bengal at Hamasaladeevi in Andhra Pradesh. The Krishna River flows through the states of Maharashtra, Karnataka and Andhra Pradesh. The traditional source of the river is a spout from the mouth of a statue of a cow in the ancient temple of Mahadev in Mahabaleshwar. Its most important tributary is the Tungabhadra River, which itself is formed by the Tunga and Bhadra rivers that originate in the Western Ghats. Other tributaries include the Koyna, Bhima, Mallaprabha, Ghataprabha, Yerla, Warna, Dindi, Musi and Dudhganga rivers. "\n"
+"\n"
+8.Cauvery River System "\n"
+The Cauvery (also spelled Kavery) is one of the great rivers of India and is considered sacred by the Hindus. This river is also called Dakshin Ganga. The headwaters are in the Western Ghats range of Karnataka state, and flows from Karnataka through Tamil Nadu. It empties into the Bay of Bengal. Its waters have supported irrigated agriculture for centuries, and the Cauveri has been the lifeblood of the ancient kingdoms and modern cities of South India. The source of the river is Talakaveri located in the Western Ghats about 5,000 feet (1,500 m) above sea level. It flows generally south and east for around 800 km, emptying into the Bay of Bengal through two principal mouths. Its basin is estimated to be 27,700 square miles (811,55 km²), and it has many tributaries including Shimsha, Hemavati, Arkavathy, Kapila, Honnuhole, Lakshmana Tirtha, Kabini, Lokapavani, Bhavani, Noyyal and Famous Amaravati. "\n"
+"\n"
+9.Mahanadi River System "\n"
+The Mahanadi River system is the third largest in the peninsula of India and the largest river of Orissa state. The basin (80º30’–86º50’ E and 19º20’–23º35’ N) extends over an area approximately 1415,89 km2, has a total length of 851 km. The basin is characterized by a tropical climate with average annual rainfall of 142 cm (NWDA, 1981) with 90% occurring during the SW-monsoon. The river begins in the Baster hills of Madhya Pradesh flows over different geological formations of Eastern Ghats and adjacent areas and joins the Bay of Bengal after divided into different branches in the deltaic area. The main branches of River Mahanadi meet Bay of Bengal at Paradip and Nuagarh (Devi estuary). The tidal estuarine part of the river covers a length of 40 km and has a basin area of 9 km2. Based on physical characteristics, the estuary has been characterized as a partially mixed coastal plain estuary. "\n"
+    </string>
+
+
+</resources>
